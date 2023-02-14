@@ -8,3 +8,9 @@ p: :0Pw/>W|.6CCzCM
 * Sonarqube admoin
 
 p: V^YEOg$:>qUd;90
+
+
+http://108.14.33.160:8085/generic-webhook-trigger/invoke?token=TOKENHERE
+
+
+108.14.33.160
